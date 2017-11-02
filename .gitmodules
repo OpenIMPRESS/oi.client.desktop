@@ -7,3 +7,6 @@
 [submodule "Assets/OpenIMPRESS/oi.plugin.rgbd"]
 	path = Assets/OpenIMPRESS/oi.plugin.rgbd
 	url = https://github.com/OpenIMPRESS/oi.plugin.rgbd.git
+[submodule "Assets/OpenIMPRESS/oi.plugin.transform"]
+	path = Assets/OpenIMPRESS/oi.plugin.transform
+	url = https://github.com/OpenIMPRESS/oi.plugin.transform.git
