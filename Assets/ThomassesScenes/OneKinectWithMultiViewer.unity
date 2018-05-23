@@ -622,7 +622,7 @@ MonoBehaviour:
   debugLevel: 0
   SocketID: kinect1
   UseMatchmakingServer: 0
-  ManualHostName: 127.0.0.1
+  ManualHostName: 192.168.1.55
   ManualPort: 5005
   ManualListenPort: 5001
   IsSender: 0
