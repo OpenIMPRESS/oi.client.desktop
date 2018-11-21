@@ -10,3 +10,9 @@
 [submodule "Assets/OpenIMPRESS/oi.plugin.transform"]
 	path = Assets/OpenIMPRESS/oi.plugin.transform
 	url = https://github.com/OpenIMPRESS/oi.plugin.transform.git
+[submodule "Assets/OpenIMPRESS/oi.plugin.spatialmesh"]
+	path = Assets/OpenIMPRESS/oi.plugin.spatialmesh
+	url = https://github.com/OpenIMPRESS/oi.plugin.spatialmesh.git
+[submodule "Assets/OpenIMPRESS/oi.plugin.kinectMarkerAlignment"]
+	path = Assets/OpenIMPRESS/oi.plugin.kinectMarkerAlignment
+	url = https://github.com/OpenIMPRESS/oi.plugin.kinectMarkerAlignment.git

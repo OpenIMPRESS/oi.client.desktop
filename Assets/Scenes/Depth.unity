@@ -298,6 +298,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114827777589377518, guid: d8b8543cea9e3024c8970c02babb1b4d,
+        type: 2}
+      propertyPath: ManualPort
+      value: 5066
+      objectReference: {fileID: 0}
+    - target: {fileID: 114827777589377518, guid: d8b8543cea9e3024c8970c02babb1b4d,
+        type: 2}
+      propertyPath: ManualListenPort
+      value: 5055
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d8b8543cea9e3024c8970c02babb1b4d, type: 2}
   m_IsPrefabParent: 0
